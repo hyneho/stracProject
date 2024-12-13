@@ -117,7 +117,7 @@ Once downloaded, **move the `client_secrets.json` file** to the root of your pro
 
 ## Assumptions/Notes
 
-- list,download,delete doesn't support other folders, it just lists the root folder (this was not listed in )
+- list,download,delete doesn't support other folders, it just lists the root folder (this was not listed in specification)
 
 
 
